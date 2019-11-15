@@ -1,0 +1,24 @@
+body{
+  background-color: #c9d1ff;
+}
+hr{
+  background-color: white;
+  border-style: dotted none none;
+  border-right: none;
+  border-width:1px;
+  width:25px;
+}
+h1{
+  color: #66bfbf;
+}
+h2{
+  color: #a32f80;
+  letter-spacing: 8px;
+
+}
+td{
+  text-transform: uppercase;
+}
+li{
+  color: #f0134d
+}
